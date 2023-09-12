@@ -47,3 +47,4 @@
     <img src="https://komarev.com/ghpvc/?username=abd074&style=for-the-badge">
 </a>
 
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=abd074&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
