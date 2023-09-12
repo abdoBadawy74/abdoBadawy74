@@ -45,12 +45,16 @@
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px>
 
 <br>
+# 📊 GitHub Stats:
+<br>
+<br>
 <a href="https://komarev.com/ghpvc/?username=abd074&style=for-the-badge" >
     <img src="https://komarev.com/ghpvc/?username=abd074&style=for-the-badge";>
 </a>
 <br/>
 <br/>
 
-
+![](https://github-readme-streak-stats.herokuapp.com/?user=abd074&theme=dark&hide_border=false)<br/>
+<br>
 
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=abd074&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
