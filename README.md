@@ -17,7 +17,7 @@
 <br>
 <br>
 
-- 🏢 I worked on some freelance projects on sites such as Mustaql and Khamsatز
+- 🏢 I worked on some freelance projects on sites such as Mustaql and Khamsat
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Html, Css, JavaScript, ReactJS or anything related to web development.
 - ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
