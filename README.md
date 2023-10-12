@@ -54,13 +54,19 @@
 # 📊 GitHub Stats:
 <br>
 <br>
-<a href="https://komarev.com/ghpvc/?username=abd074&style=for-the-badge" >
+
+<div align="center">
+  <a href="https://komarev.com/ghpvc/?username=abd074&style=for-the-badge" >
     <img src="https://komarev.com/ghpvc/?username=abd074&style=for-the-badge";>
 </a>
 <br/>
 <br/>
+  <img src="https://streak-stats.demolab.com?user=abd074&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api?username=abd074&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <br/>
+  <br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abd074&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+</div>
 
-![](https://github-readme-streak-stats.herokuapp.com/?user=abd074&theme=dark&hide_border=false)<br/>
-<br>
-
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=abd074&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
