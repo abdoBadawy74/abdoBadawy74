@@ -27,7 +27,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Html, Css, JavaScript, ReactJS or anything related to web development.
 - ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
-- 👨‍💻 Check out my portfolio at https://abd074.github.io/portfolio/ to see some of the projects I've worked on.
+- 👨‍💻 Check out my portfolio at https://abdoBadawy74.github.io/portfolio/ to see some of the projects I've worked on.
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px>
 
