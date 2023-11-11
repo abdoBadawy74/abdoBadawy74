@@ -34,7 +34,7 @@
 ### Connect with Me :
 
 <a href="https://www.linkedin.com/in/abdulrahman-badawy-7bb072258/" target="_blank"><img src="https://img.shields.io/badge/-Abdulrahman%20Badawy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
-<a href="https://t.me/Abdo_Badawy74" target="_blank"><img src="https://img.shields.io/badge/Abdo%20Badawy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
+<a href="https://t.me/AbdoBadawy74" target="_blank"><img src="https://img.shields.io/badge/Abdo%20Badawy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/></a>
 
 <img align="center" src="https://github.com/Govindv7555/Govindv7555/blob/main/49e76e0596857673c5c80c85b84394c1.gif" width= 100% height=95px>
 
