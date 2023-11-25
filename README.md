@@ -22,12 +22,19 @@
 - ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
 - 👨‍💻 Check out my portfolio at [https://abdoBadawy74.github.io/portfolio/](https://abdoBadawy74.github.io/portfolio/) to see some of the projects I've worked on.
 
+### Connect with Me :
+
 <div align="center">
   <a href="https://www.linkedin.com/in/abdulrahman-badawy-7bb072258/" target="_blank">
     <img src="https://img.shields.io/badge/-Abdulrahman%20Badawy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
   </a>
   <a href="https://t.me/AbdoBadawy74" target="_blank">
-    <img src="https://img.shields.io/badge/Abdo%20Badawy-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
+    <img src="https://img.shields.io/badge/𝗔𝗕𝗗𝗨𝗟𝗥𝗔𝗛𝗠𝗔𝗡 🇵🇸-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
+  </a>
+
+  
+  <a href="https://www.facebook.com/abdulrahman.badawy.9275/" target="_blank">
+    <img src="https://img.shields.io/badge/-Abdulrahman%20Badawy-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/>
   </a>
 </div>
 
@@ -59,3 +66,4 @@
   <br/>
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoBadawy74&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
+
