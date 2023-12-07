@@ -67,12 +67,9 @@
 
 
 ## 🏆 GitHub Trophies
-
-<div align="center>
   
   ![](https://github-profile-trophy.vercel.app/?username=abdoBadawy74&theme=flat&no-frame=true&no-bg=false&margin-w=4)
 
-</div>
 
 # 📊 GitHub Stats:
 
