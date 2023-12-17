@@ -83,9 +83,29 @@
   <img src="https://streak-stats.demolab.com?user=abdoBadawy74&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=abdoBadawy74&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=abdoBadawy74&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoBadawy74&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abdoBadawy74&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="200" alt="languages graph"  />
 </div>
 
+<div align="center">
+  <br/>
+  <br/>
+  
+  ### 🔝 Top Contributed Repo
+  ![](https://github-contributor-stats.vercel.app/api?username=abdobadawy74&limit=5&theme=dark&combine_all_yearly_contributions=true)
+  
+  <br/>
+  <br/>
+  
+  ### ✍️ Random Dev Quote
+  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+
+  <br/>
+  <br/>
+  
+### 😂 Random Dev Meme
+<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
+
+</div>
