@@ -92,20 +92,11 @@
 <div align="center">
   <br/>
   <br/>
-  
-  ### 🔝 Top Contributed Repo
-  ![](https://github-contributor-stats.vercel.app/api?username=abdobadawy74&limit=5&theme=dark&combine_all_yearly_contributions=true)
-  
-  <br/>
-  <br/>
-  
+   
   ### ✍️ Random Dev Quote
   ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
 
   <br/>
   <br/>
-  
-### 😂 Random Dev Meme
-<img src='https://randommeme-five.vercel.app/' style="height: 400px;"/>
 
 </div>
