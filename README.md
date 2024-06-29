@@ -92,7 +92,7 @@
   <br/>
    
   ### ✍️ Random Dev Quote
-  ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=dark)
+  ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
   <br/>
   <br/>
