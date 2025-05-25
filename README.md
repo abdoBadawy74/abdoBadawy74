@@ -20,7 +20,7 @@
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
 - 💬 Ask me about my experience with Html, Css, JavaScript, ReactJS, or anything related to web development.
 - ⚡ Fun Fact: I'm a tea enthusiast and my perfect day would start and end with a cup of tea.
-- 👨‍💻 Check out my portfolio at [https://abdoBadawy74.github.io/portfolio/](https://abdoBadawy74.github.io/portfolio/) to see some of the projects I've worked on.
+- 👨‍💻 Check out my [portfolio](https://portfolio-abdos-projects-9ab4571d.vercel.app/) to see some of the projects I've worked on.
 
 ### Connect with Me :
 
