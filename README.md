@@ -64,11 +64,6 @@
 ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=flat&logo=figma&logoColor=white)
 
 
-## 🏆 GitHub Trophies
-  
-  ![](https://github-profile-trophy.vercel.app/?username=abdoBadawy74&theme=flat&no-frame=true&no-bg=false&margin-w=10)
-
-
 # 📊 GitHub Stats:
 
 <div align="center">
@@ -77,15 +72,21 @@
   </a>
   <br/>
   <br/>
-      
-  <img src="https://streak-stats.demolab.com?user=abdoBadawy74&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
+
+  <img src="https://streak-stats.demolab.com?user=abdoBadawy74&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
+
   <br/>
   <br/>
-  <img src="https://github-readme-stats.vercel.app/api?username=abdoBadawy74&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=false&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false" height="200" alt="stats graph"  />
-  <br/>
-  <br/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=abdoBadawy74&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact&card_width=320" height="200" alt="languages graph"  />
+
+  <table>
+    <tr>
+      <td><img src="https://github-readme-stats.shion.dev/api?username=abdoBadawy74&theme=dark&hide_border=false&include_all_commits=true&count_private=true" alt="GitHub Stats" /></td>
+      <td><img src="https://github-readme-stats.shion.dev/api/top-langs/?username=abdoBadawy74&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" alt="Top Languages" /></td>
+    </tr>
+  </table>
+
 </div>
+
 
 
 
