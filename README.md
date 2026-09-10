@@ -4,14 +4,14 @@
 </h3>
 
 <!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
-<p align="center">
+<!-- <p align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-Stack%20Developer..;No%20Risk%20No%20Fun,%20Here%20We%20Go..&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 <div align="center"  style=" width: 100%; display: flex; justify-content: space-between;">
   <img src="https://c.tenor.com/_DOBjnGspYAAAAAM/code-coding.gif" width="200" alt="Coding GIF">
   <img src="https://media.giphy.com/media/HscDLzkO8EOTmgkhQP/giphy.gif" width="200" alt="Another GIF">
-</div>
+</div> -->
 
 
 
@@ -71,11 +71,7 @@
     <img src="https://komarev.com/ghpvc/?username=abdoBadawy74&style=for-the-badge";>
   </a>
   <br/>
-  <br/>
-
-  <img src="https://streak-stats.demolab.com?user=abdoBadawy74&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph" />
-
-  <br/>
+ 
   <br/>
 
   <table>
