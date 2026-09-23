@@ -26,16 +26,11 @@
 
 <div align="center">
   <a href="https://www.linkedin.com/in/abdulrahman-badawy-7bb072258/" target="_blank">
-    <img src="https://img.shields.io/badge/-Abdulrahman%20Badawy-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/>
+    <img src="https://img.shields.io/badge/-Abdulrahman%20Badawy-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
-  <a href="https://t.me/AbdoBadawy74" target="_blank">
-    <img src="https://img.shields.io/badge/𝗔𝗕𝗗𝗨𝗟𝗥𝗔𝗛𝗠𝗔𝗡 🇵🇸-0077B5?style=for-the-badge&logo=Telegram&logoColor=white"/>
-  </a>  
-  <a href="https://www.facebook.com/abdulrahman.badawy.9275/" target="_blank">
-    <img src="https://img.shields.io/badge/-Abdulrahman%20Badawy-0077B5?style=for-the-badge&logo=facebook&logoColor=white"/>
-  </a>
-  <a href="https://twitter.com/abdoBadawy72" target="_blank">
-    <img src="https://img.shields.io/badge/-Badawy-0077B5?style=for-the-badge&logo=twitter&logoColor=white"/>
+  
+  <a href="https://wa.link/k90a7t" target="_blank">
+    <img src="https://img.shields.io/badge/-Badawy-0077B5?style=for-the-badge&logo=whatsapp&logoColor=white"/>
   </a>
 </div>
 
